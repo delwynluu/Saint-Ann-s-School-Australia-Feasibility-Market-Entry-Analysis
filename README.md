@@ -291,18 +291,3 @@ This project progressed through three major presentation milestones:
 - [Phase 2 – Preliminary Recommendations](presentations/phase-2-preliminary-recommendations.pdf)
 - [Phase 3 – Final Recommendation](presentations/phase-3-final-recommendation.pdf)
 
-> Upload your PDF files into the `presentations/` folder using exactly these file names so the links work correctly.
-
----
-
-## Suggested Visuals
-Once you upload images into an `images/` folder, you can display them like this:
-
-```markdown
-## Key Visuals
-
-### Phase 2 – Suburb Shortlisting
-![Suburb Shortlisting](images/phase-2-shortlist.png)
-
-### Phase 3 – Final Recommendation
-![Final Recommendation](images/final-recommendation.png)
